@@ -16,7 +16,7 @@ To get the tracking id, I checked out Twitter and found dozens of tracking numbe
 
 I reported the issue to Grab and they asked if I was able to brute force the tracking numbers. It took me a while as the tracking numbers were following a different pattern and spending some time over that, I was able to Brute Force hundreds of tracking ids in a few mins. Too much of sensitive data lying around.
 
-I hope you liked my first blog post, another one coming soon on how I was able to gain control of all of my Facebook friends Zomato accounts. 
+I hope you liked my first blog post, another one coming soon on [Zomato Account Takeover using Victim's Facebook ID]({% link _posts/2017-08-20-zomato-account-takeover-using-facebook-id.md %}) 
 
 # Timeline
 
