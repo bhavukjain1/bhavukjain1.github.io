@@ -5,7 +5,7 @@ date:   2017-08-20 16:00:00 +0530
 categories: [Mobile Security]
 ---
 
-This was an issue, I reported to Zomato a few months back where an attacker could have compromised any user's account who had linked their Facebook with Zomato. And since most of the people uses Login with Facebook nowadays, I was actually able to gain access to over 1000s of user accounts.
+This was an issue, I reported to Zomato a few months back where an attacker could have compromised any user's account who had linked their Facebook with Zomato. And since most of the people use Login with Facebook nowadays, I was actually able to gain access to over 1000s of user accounts.
 
 While performing login with Facebook on iOS app, this is the request that was sent to the server:
 
