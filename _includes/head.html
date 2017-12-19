@@ -6,6 +6,10 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
+  <meta name="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}">
+<meta name="og:title" content="{{ page.title }}">
+<meta name="og:description" content="{{ page.excerpt }}">
+
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
@@ -14,7 +18,7 @@
   {% include google-analytics.html %}
   {% endif %}
 
-  <meta name="twitter:card" content="summary_large_image">
+<!--   <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@bhavukjain1">
 <meta name="twitter:title" content="{{ page.title }}">
 
@@ -25,12 +29,8 @@
   <meta name="twitter:description"
     content="{{ page.content | strip_html | xml_escape
       | truncate: 200 }}">
-{% endif %}
+{% endif %} -->
 
-
-<meta name="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}">
-<meta name="og:title" content="{{ page.title }}">
-<meta name="og:description" content="{{ page.excerpt }}">
 
 
   <script src="https://use.fontawesome.com/c917585dea.js"></script>
