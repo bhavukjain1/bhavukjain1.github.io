@@ -6,6 +6,7 @@ categories: [Web Security]
 ---
 
 While checking out [Grab Parcel](https://parcel.grab.com) website, I found a link that looked a bit suspicious to me as it was from a different domain.
+
 ```sh
 https://app.detrack.com/tracking/46678ef7c208d1f8a43379ec15624d5b12c545ad
 ```
