@@ -79,7 +79,7 @@ Response of this API:
 
 Most of the times, the developers forget to compare the value of `aud` with the whitelisted ones. The `aud` represents the app id that has generated this token. This should be validated if the `aud` value belongs to the known apps or not.
 
-**Impact of these Misconfigurations**
+**Proof of Concept/Impact of these Misconfigurations**
 
 Any malicious app can takeover the user accounts of the misconfigured targeted app, given that the user has accessed the malicious app and logged in with either Facebook or Google. For example, let’s say there is a competitor of Uber, “XYZ” app. There’s a high probability that a user is common to both Uber and XYZ. If XYZ app has a misconfiguration either with Facebook/Google Login, Uber can access the user accounts of XYZ’s app using the access tokens of their own customers.
 
