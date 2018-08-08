@@ -16,7 +16,7 @@ Also an Independent Web and Mobile Security Engineer, helping to make internet a
 ### Skill Highlights
 
 ● React Native
-● Objective C, Swift 3, Node.js, PHP, MongoDB
+● Objective C, Swift 4, Node.js, PHP, MongoDB
 ● Auto Layout/Adaptive Layout
 ● Core Bluetooth
 ● 3D Touch (Quick Actions, Peek/Pop)
