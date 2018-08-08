@@ -7,7 +7,7 @@ permalink: /about/
 Hey there! My name is **Bhavuk Jain**. I'm 25 and hold a bachelor's degree in Electronics and Communication.
 Totally **NOT** interested in Electronics by any how.
 
-An iOS Application Developer with 3+ years of experience. Currently working with a startup company, [SpotASAP Technologies Pvt Ltd, Bangalore, India.](http://www.spotsoon.com)
+I'm a full stack developer interested mostly in mobile app development using React Native.
 
 Also an Independent Web and Mobile Security Engineer, helping to make internet a safer place for everyone.
 
@@ -15,6 +15,7 @@ Also an Independent Web and Mobile Security Engineer, helping to make internet a
 <br/>
 ### Skill Highlights
 
+● React Native
 ● Objective C, Swift 3, Node.js, PHP, MongoDB
 ● Auto Layout/Adaptive Layout
 ● Core Bluetooth
