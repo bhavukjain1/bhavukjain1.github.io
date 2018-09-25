@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Account Takeover Due to Misconfigured Login with Facebook/Google
-date:   2017-12-20 08:00:00 +1100
+date: 2017-12-20 20:00:00 +1100
 categories: [Mobile Security]
 ---
 
