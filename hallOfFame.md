@@ -11,5 +11,3 @@ I've been thanked and rewarded by various tech giants for finding security vulne
 - [Grab](https://hackerone.com/grab/thanks/2017){:target="_blank"}
 - [Stackoverflow](https://stackexchange.com/about/security){:target="_blank"}
 - [Pinterest](https://bugcrowd.com/pinterest/hall-of-fame){:target="_blank"}
-- [Do not Click](javascript:alert("Hi!%20Fake%20XSS"))
-- [Do not Click](https://stacqtrace.com/iframe.html)
