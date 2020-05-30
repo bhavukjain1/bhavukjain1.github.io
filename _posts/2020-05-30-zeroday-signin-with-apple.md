@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Zero-day in Sign in with Apple
-date:   2020-05-30 03:30:00 +0530
+date:   2020-05-30 15:30:00 +0530
 categories: [Web Security]
 ---
 
