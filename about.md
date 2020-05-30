@@ -9,7 +9,7 @@ Totally **NOT** interested in Electronics by any how.
 
 I'm a full stack developer interested mostly in mobile app development using React Native.
 
-Also an Independent Web and Mobile Security Engineer, helping to make internet a safer place for everyone.
+Currently, a full-time bug bounty hunter trying to make the internet a safer place for everyone.
 
 
 If you would like to discuss an opportunity, connect with me on [Linkedin](https://www.linkedin.com/in/bhavukjain1/){:target="_blank"} or just ping me on Twitter [@bhavukjain1](https://twitter.com/bhavukjain1){:target="_blank"}.
