@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Capturing HTTP Requests from a Non-proxy-aware Mobile Application
+title: Capturing HTTP Requests from a non-proxy-aware Mobile Application
 date:   2023-02-19 10:30:00 +0530
 categories: [Mobile Security]
 ---
