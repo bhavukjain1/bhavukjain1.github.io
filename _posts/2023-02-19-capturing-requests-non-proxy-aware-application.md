@@ -19,8 +19,8 @@ Detailed steps on setting up the environment:
 3. Create two clients for OpenVPN - one will be installed on a mobile device, and the other will be installed on the system where Burp is installed.
 4. After setting up the OpenVPN, we will need to create NAT rules for routing the traffic onto the Burp Suite. Create the following rules (the port number should be of the Burp):
 ```sh
-   iptables -t nat -A PREROUTING -i tun0 -p tcp --dport 80 -j REDIRECT --to-port 8080 
-   iptables -t nat -A PREROUTING -i tun0 -p tcp --dport 443 -j REDIRECT --to-port 8080
+   iptables -t nat -A PREROUTING -i tun0 -p tcp --dport 80 -j DNAT --to-destination 10.8.0.10:8080
+   iptables -t nat -A PREROUTING -i tun0 -p tcp --dport 443 -j DNAT --to-destination 10.8.0.10:8080
 ```
 5. The NAT policy should look like this below:
 	![image](/assets/images/nat.png)
