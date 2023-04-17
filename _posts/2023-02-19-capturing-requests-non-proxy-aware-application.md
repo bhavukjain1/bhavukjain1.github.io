@@ -29,7 +29,7 @@ Here, 10.8.0.6 is the local IP on the mobile device and 10.8.0.10 is the local I
 	![image](/assets/images/nat.png)
 6. Enable invisible proxy on the Burp Suite:
 	![image](/assets/images/burp.png)
-7. Now connect to the VPN on the mobile device and the system. This connection should capture the HTTP requests. There may be issues with the responses (requests not revolving to responses due to NAT rules that we set up earlier). Once the requests are captured, send them to the repeater tab. Disconnect the VPN and replay the requests from the repeater tab.
+7. Now connect to the VPN on the mobile device and the system. This connection should capture the HTTP requests and responses.
 
 Thank you for stopping by! If you have any questions, comments, or suggestions, please don't hesitate to reach out. 
 
