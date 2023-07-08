@@ -5,7 +5,7 @@ date:   2023-07-08 22:30:00 +0530
 categories: [Web Security]
 ---
 
-*Me - My Favorite number is 1337. System, can you please generate this OTP for all the users? 
+*Me - My Favorite number is 1337. System, can you please generate this OTP for all the users?\
 System - No!! However, since you insist, here you go!*
 
 This is what we were able to do on `redacted.com`, which resulted in a zero-click account takeover. All we needed to know was the user's email address. However, there is a catch! We will discuss this later. 
