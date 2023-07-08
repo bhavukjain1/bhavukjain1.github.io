@@ -5,7 +5,6 @@ date:   2023-07-08 22:30:00 +0530
 categories: [Web Security]
 ---
 
-
 *Me - My Favorite number is 1337. System, can you please generate this OTP for all the users? 
 System - No!! However, since you insist, here you go!*
 
